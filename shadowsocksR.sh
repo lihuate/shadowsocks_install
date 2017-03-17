@@ -4,10 +4,10 @@ export PATH
 #=================================================================#
 #   System Required:  CentOS 6,7, Debian, Ubuntu                  #
 #   Description: One click Install ShadowsocksR Server            #
-#   尊重作者 
+#  
 #       
-#   Thanks: @Teddysun <i@teddysun.com>                            #
-#   Intro:  https://blog.lihuate.com                   #
+#                      
+# 
 #=================================================================#
 
 
