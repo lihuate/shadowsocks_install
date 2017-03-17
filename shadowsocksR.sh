@@ -4,13 +4,7 @@ export PATH
 #=================================================================#
 #   System Required:  CentOS 6,7, Debian, Ubuntu                  #
 #   Description: One click Install ShadowsocksR Server            #
-#  
-#       
-#                      
-# 
 #=================================================================#
-
-
 #Current folder
 cur_dir=`pwd`
 # Get public IP address
